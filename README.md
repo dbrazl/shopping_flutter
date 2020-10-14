@@ -8,7 +8,7 @@ An shop layout powered by Flutter.
 
 ### Product page
 
-<img src="(https://user-images.githubusercontent.com/52254578/95933738-ab526200-0da5-11eb-9840-05d50c622ddc.png" width="323" height="676" />
+<img src="https://user-images.githubusercontent.com/52254578/95933738-ab526200-0da5-11eb-9840-05d50c622ddc.png" width="323" height="676" />
 
 <img src="https://user-images.githubusercontent.com/52254578/95933740-abeaf880-0da5-11eb-9cc7-3b61b2da4bc2.png" width="323" height="676" />
 
